@@ -1,0 +1,16 @@
+{
+    "java.jdt.ls.vmargs": "-javaagent:C:\\Users\\User\\.m2\\repository\\org\\projectlombok\\lombok\\1.18.32\\lombok-1.18.32.jar -Xmx1G",
+    "java.jdt.ls.java.home": "C:\\Program Files\\Java\\jdk-21.0.12.1",
+    "java.configuration.runtimes": [
+        {
+            "name": "JavaSE-21",
+            "path": "C:\\Program Files\\Java\\jdk-21.0.12.1",
+            "default": true
+        }
+    ],
+    "java.import.maven.enabled": true,
+    "java.import.gradle.enabled": false,
+    "java.configuration.updateBuildConfiguration": "automatic",
+    "java.debug.settings.console": "externalTerminal",
+    "java.debug.settings.vmArgs": "-Dfile.encoding=UTF-8"
+}
